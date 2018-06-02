@@ -1,0 +1,294 @@
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\bin\Debug\QLCHG.exe.config
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\bin\Debug\QLCHG.mdf
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\bin\Debug\QLCHG_log.ldf
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\bin\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\bin\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmQLTK_ThemTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.frmQLTK_SuaTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [06.8 18h00]\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [10.8 16h07]\QLCHG\bin\Debug\QLCHG.exe.config
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\Backup\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\bin\Debug\QLCHG.exe.config
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\bin\Debug\QLCHG.mdf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\bin\Debug\QLCHG_log.ldf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\bin\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\bin\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [10.8 16h07]\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\bin\Debug\QLCHG.mdf
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\bin\Debug\QLCHG_log.ldf
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+C:\Users\Admin 88\Desktop\FFFFFF\QLCHG\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\bin\Debug\QLCHG.mdf
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\bin\Debug\QLCHG_log.ldf
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.pdb
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\bin\Debug\QLCHG.mdf
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\bin\Debug\QLCHG_log.ldf
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\bin\Debug\QLCHG.exe
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+C:\Users\N2Q\Desktop\QLCHG [13.8 18h30]\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\bin\Debug\QLCHG.mdf
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\bin\Debug\QLCHG_log.ldf
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+C:\Users\Admin 88\Desktop\New folder\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+D:\c#\hhh\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+D:\c#\hhh\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+D:\c#\hhh\QLCHG\QLCHG\bin\Debug\QLCHG.mdf
+D:\c#\hhh\QLCHG\QLCHG\bin\Debug\QLCHG_log.ldf
+D:\c#\hhh\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+D:\c#\hhh\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\N2Q\Downloads\Compressed\QLCHG\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\bin\Debug\QLCHG.exe.config
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\bin\Debug\QLCHG.mdf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\bin\Debug\QLCHG_log.ldf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\bin\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\bin\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [17.8 21h30]\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmTimKiemHoaDon.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\bin\Debug\Database\QLCHG.mdf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\bin\Debug\Database\QLCHG_log.ldf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\bin\Debug\QLCHG.exe.config
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\bin\Debug\Database\QLCHG.mdf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\bin\Debug\Database\QLCHG_log.ldf
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\bin\Debug\QLCHG.exe
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\bin\Debug\QLCHG.pdb
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.frmTimKiemHoaDon.resources
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG [22.8 18h40]\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+D:\Information Technology\Source code\CSharp\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\bin\Debug\Database\QLCHG.mdf
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\bin\Debug\Database\QLCHG_log.ldf
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.frmTimKiemHoaDon.resources
+C:\Users\Admin 88\Desktop\QLCHG\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\bin\Debug\Database\QLCHG.mdf
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\bin\Debug\Database\QLCHG_log.ldf
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.frmTimKiemHoaDon.resources
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\N2Q\Desktop\New folder (2)\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.pdb
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\bin\Debug\Database\QLCHG.mdf
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\bin\Debug\Database\QLCHG_log.ldf
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\bin\Debug\QLCHG.exe
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\bin\Debug\QLCHG.pdb
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.csprojResolveAssemblyReference.cache
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmBaoCaoThongKe.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangKy.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmDangNhap.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQLCHG.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_SuaKH.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang_ThemKH.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyBanGao.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyKhachHang.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_SuaTK.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan_ThemTK.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTTGao.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmQuanLyTaiKhoan.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.Properties.Resources.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.frmTimKiemHoaDon.resources
+C:\Users\N2Q\Desktop\New folder (3)\QLCHG\QLCHG\obj\Debug\QLCHG.csproj.GenerateResource.Cache
+C:\Users\N2Q\Desktop\QLCHG\SourceCodeQLCHG\QLCHG\bin\Debug\QLCHG.exe.config
+C:\Users\N2Q\Desktop\QLCHG\SourceCodeQLCHG\QLCHG\obj\Debug\QLCHG.exe
+C:\Users\N2Q\Desktop\QLCHG\SourceCodeQLCHG\QLCHG\obj\Debug\QLCHG.pdb
